@@ -60,7 +60,7 @@ To create a comprehensive sales reporting dashboard that:
 
 > *(Add screenshots or GIFs of your report here)*  
 > Example:
-> ![Sales Dashboard Preview](assets/sales-dashboard-preview.png)
+> ![Sales Dashboard Preview](snapshots/Sales Analytics Dashboard.jpg)
 
 ---
 
