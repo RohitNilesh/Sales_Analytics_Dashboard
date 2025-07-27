@@ -57,10 +57,9 @@ To create a comprehensive sales reporting dashboard that:
 ---
 
 ## 📊 Sample Visuals
-
-> *(Add screenshots or GIFs of your report here)*  
+ 
 > Example:
-> ![Sales Dashboard Preview](snapshots/Sales Analytics Dashboard.jpg)
+> ![Sales Dashboard Preview](snapshots/Sales_Analytics_Dashboard.jpg)
 
 ---
 
